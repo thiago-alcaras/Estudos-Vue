@@ -1,7 +1,7 @@
 <template>
     <div class="">
         <button @click="increment()">
-            Clicou {{ count }} vezes
+            Clicou {{ count }} vezes button  render
         </button>
     </div>
 </template>
